@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+.body-background{
+    color:grey;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color:black;
+    size:30px;
+    font-weight: 800;
+    font-family:'Times New Roman', Times, serif ;
+}
+#button{
+    color:black;
+    background-color: darkcyan;
+    font-size:20px;
+}
+#canvas{
+    background-color: darkgray;
+    border-width: 8px;
+    border-style: ridge;
+}
+.input1{
+    background-color: whitesmoke;
+    border-width:2px;
+    border-color: black;
+}
